@@ -1,20 +1,25 @@
 # first food for baby
 
 ### About The App
+
 When we have baby for the first time, first thing we have to study is something like this.
+
 * I don't know how to cook!
 * I don't know how much they eat!
 * I don't know if it's safe for them!
 * Does baby have allergy of this food?
 
-What we need is to be calm down and search information, but unexpectedly it's really hard searching those things with taking care of baby.
+What we need is to be calm down and search information, but unexpectedly it's really hard searching those things with
+taking care of baby.
 
-Fortunately, there's already exist a bunch of services for helping those situations. 
-But I realized there's few services for people who living foreign country for the first time and don't know the complicated info from service, so I made easy one by myself.
+Fortunately, there's already exist a bunch of services for helping those situations.
+But I realized there's few services for people who living foreign country for the first time and don't know the
+complicated info from service, so I made easy one by myself.
 
 This is the app for foreigner live in Japan and struggle baby food situation every day for the baby!
 
 Here's information we need.
+
 * What food can baby eat
 * How to cook
 * Recording foods they tried, allergy symptoms and like/dislike
@@ -22,6 +27,10 @@ Here's information we need.
 * Japanese food tips
 
 I don't have such skill to create a perfect app, but try my best!
+
+### System diagram
+
+![system diagram](images/system-diagram.drawio.svg)
 
 ### Built With
 
@@ -66,12 +75,9 @@ I don't have such skill to create a perfect app, but try my best!
 
 ### API specifications
 
-
 ### class diagram
 
-
 ### E-R Diagram
-
 
 ### environmental variables
 
@@ -84,3 +90,5 @@ I don't have such skill to create a perfect app, but try my best!
 ### AWS diagram
 
 ![AWS diagram](images/awsdiagram.svg)
+
+
